@@ -118,7 +118,7 @@ This project can be deployed on various platforms:
 - **Vercel**: Connect your GitHub repository for automatic deployments
 - **Netlify**: Drag and drop the `dist/` folder after building
 - **GitHub Pages**: Use the built-in GitHub Actions workflow
-- **Lovable**: One-click deployment through the Lovable platform
+
 
 ## 🤝 Contributing
 
@@ -129,7 +129,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+<!-- 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
 
 ## 🙏 Acknowledgments
 
@@ -152,11 +152,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
 
-## 📊 Project Stats
+<!-- ## 📊 Project Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/fitdash?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/fitdash?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/fitdash)
-![GitHub license](https://img.shields.io/github/license/yourusername/fitdash)
+![GitHub license](https://img.shields.io/github/license/yourusername/fitdash) -->
 
 **Built with ❤️ using modern web technologies**
