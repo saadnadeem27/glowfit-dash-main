@@ -2,6 +2,9 @@
 
 A modern, responsive fitness tracking dashboard built with React, TypeScript, and Tailwind CSS. Features a beautiful glassmorphism design with smooth animations and comprehensive fitness metrics visualization.
 
+<!-- Portfolio preview image: place your screenshot at `public/portfolio-preview.png` -->
+![Portfolio Preview](public/glow-fitdash-portfolio.png)
+
 ## ✨ Features
 
 - **Modern UI/UX**: Glassmorphism design with premium animations and gradients
